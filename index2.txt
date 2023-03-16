@@ -2,4 +2,3 @@ git
 git diff
 hotfix branch
 hotfix branch -d
-modified
